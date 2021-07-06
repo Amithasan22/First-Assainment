@@ -1,0 +1,131 @@
+
+.all-h1-tags{
+    font-size: 55px;
+     
+}
+span{
+    color: orange;
+}
+.all-para-tags{
+    font-size: 21px;
+    margin-bottom: 80px;
+    
+}
+.food-div{
+    margin: 50px;
+}
+.all-ancor-tags{
+   
+    text-decoration: none;
+    padding: 22px 48px;
+    font-size: 18px;
+     color: white;
+     background-image: linear-gradient( to right, #FC8F49, #FE482E);
+     border-radius: 25px;
+}
+#food-section{
+    display: flex;
+}
+#about-section{
+    background-image: url(assainmentPhoto/shape.png);
+    display: flex;
+}
+
+.all-h2-tags{
+   font-size: 45px;
+    
+}
+
+.all-para-tags a{
+   text-decoration: none;
+   color: darkblue;
+}
+
+
+#mid-div{
+   display: block;
+   text-align: center;
+}
+#mid-div h2 {
+   font-size: 38px;
+   margin-top:70px;
+}
+#mid-div p{
+   font-size: 22px;
+    line-height: 32px;}
+
+.foods-list{
+   margin: 30px;
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    box-shadow: -3px 3px 27px rgb(185, 184, 184);
+    border-radius: 20px;
+    display: inline-block;
+
+}
+#lists-of-foods{
+   display:  block;
+   text-align: center;
+}
+.foods-list-img{
+   padding-left: 1px;
+   padding-top: 20px;
+    border-radius: 10px;
+}
+
+.foods-list-h2{
+    font-size: 26px;
+    padding-left: 25px;
+    text-align: left;
+}
+.foods-list-para{
+   font-size: 20px;
+   padding-left: 25px;
+    text-align: left;
+}
+
+footer h1{
+    text-align: center;
+    font-weight: uppercase;
+    padding-top: 50px;
+    color: white;
+}
+footer p{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 220px;
+}
+
+#last-section{
+    display: block;
+ text-align: center;
+ background-color: rgb(251, 251, 251);
+ height: 200px;
+ width: 100%;
+}
+
+.last-divs{
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    margin: 10px;
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: rgb(116, 199, 199);
+    text-align: center;
+
+}
+.last-divs a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  
+    font-size: 22px;
+}
